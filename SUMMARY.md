@@ -37,5 +37,6 @@
    * [Namespaces](orientacao_a_objetos/namespaces.md)
 * [Exceções](excecoes/README.md)
 * [Conexão e Execução SQL](conexao_e_execucao_sql/README.md)
+* [PDO - Introdução e Conceitos](conexao_e_execucao_sql/introducao_ao_pdo.md)
 * [Referências](referencias/README.md)
 
